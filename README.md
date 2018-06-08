@@ -1,4 +1,5 @@
-2018-06-08  
+## 2018-06-08  
+
 ---
 **《DetNet: A Backbone network for Object Detection》**  
   
@@ -8,7 +9,7 @@
   
 **Link:** https://arxiv.org/abs/1804.06215  
 
-===
+---
 **《Multi-scale Location-aware Kernel Representation for Object Detection》**  
 
 **CVPR 2018**  
