@@ -27,4 +27,8 @@
 
 ![image](./.assets/BPN_Framework.png)
 
+**Note:**  
+
+(i) $ A_L, A^Q $
+
 **Link:** https://arxiv.org/abs/1803.08208  
