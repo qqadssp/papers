@@ -1,6 +1,6 @@
 ## Papers
 
-**[2018-06-08](./2018-06-08.md)**  
+* **[2018-06-08](./2018-06-08.md)**  
 
 《DetNet: A Backbone network for Object Detection》  
 
