@@ -36,3 +36,7 @@ https://github.com/sfzhang15/RefineDet
 
 《DSOD: Learning Deeply Supervised Object Detectors from Scratch》  
 https://github.com/szq0214/DSOD  
+
+* **[2018-07-09](./2018-07-09.md)**  
+
+《Soft Sampling for Robust Object Detection》  
