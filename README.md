@@ -49,3 +49,5 @@ https://github.com/szq0214/DSOD
 
 《Decorrelated Batch Normalization》  
 https://github.com/umich-vl/DecorrelatedBN  
+
+《W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection》  
