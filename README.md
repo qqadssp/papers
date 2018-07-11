@@ -1,15 +1,15 @@
 ## Papers
 
-* **[2018-06-08](./2018-06-08.md)**  
+**[2018-06-08](./2018-06-08.md)**  
 
-《DetNet: A Backbone network for Object Detection》  
+* 《DetNet: A Backbone network for Object Detection》  
 
-《Multi-scale Location-aware Kernel Representation for Object Detection》  
-http://github.com/Hwang64/MLKR  
+* 《Multi-scale Location-aware Kernel Representation for Object Detection》  
+* http://github.com/Hwang64/MLKR  
 
-* **[2018-06-11](./2018-06-11.md)**  
+**[2018-06-11](./2018-06-11.md)**  
 
-《Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection》  
+* 《Single-Shot Bidirectional Pyramid Networks for High-Quality Object Detection》  
 
 * **[2018-06-24](./2018-06-24.md)**  
 
