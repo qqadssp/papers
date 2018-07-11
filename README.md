@@ -44,3 +44,8 @@ https://github.com/szq0214/DSOD
 * **[2018-07-10](./2018-07-10.md)**  
 
 《Pseudo Mask Augmented Object Detection》  
+
+* **[2018-07-11](./2018-07-11.md)**  
+
+《Decorrelated Batch Normalization》  
+https://github.com/umich-vl/DecorrelatedBN  
