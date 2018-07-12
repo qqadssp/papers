@@ -51,3 +51,9 @@ https://github.com/szq0214/DSOD
 https://github.com/umich-vl/DecorrelatedBN  
 
 * 《W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection》  
+
+**[2018-07-11](./2018-07-12.md)**  
+
+* 《Deep Layer Aggregation》  
+
+* 《W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection》  
