@@ -56,4 +56,4 @@ https://github.com/umich-vl/DecorrelatedBN
 
 * 《Deep Layer Aggregation》  
 
-* 《W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection》  
+* 《Practical Block-wise Neural Network Architecture Generation》  
